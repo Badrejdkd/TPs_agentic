@@ -1,0 +1,19 @@
+La ville se réveille lentement. Les premiers bus traversent les avenues encore vides, et les boulangers ouvrent leurs portes. L'odeur du pain chaud se mélange à celle du café. Sur la place, un vieil homme nourrit les pigeons pendant que les enfants partent à l'école avec leurs cartables sur le dos.
+
+Au bord de la mer, le vent souffle fort. Les vagues frappent les rochers et laissent derrière elles une écume blanche. Les pêcheurs reviennent au port avec leurs filets pleins. Ils vendent les poissons sur le quai, et les clients discutent des prix en riant. Le soleil monte dans le ciel et la lumière devient plus douce.
+
+Dans la bibliothèque, le silence est presque total. Une étudiante lit un livre de mathématiques et prend des notes dans son cahier. Elle veut comprendre comment les machines apprennent à partir des données. Elle découvre les réseaux de neurones, les fonctions de perte et la descente de gradient. Chaque page lui pose une nouvelle question, et chaque réponse lui donne envie de continuer.
+
+Le soir, la famille se retrouve autour de la table. La mère prépare un tajine aux légumes, le père sert le thé à la menthe, et les enfants racontent leur journée. On parle de l'école, du travail, des voisins et des projets pour les vacances. Après le repas, tout le monde regarde le ciel étoilé depuis la terrasse.
+
+Un modèle de langage apprend à prédire le caractère suivant. Il lit un texte, regarde les caractères précédents et calcule une probabilité pour chaque caractère possible. Au début, ses prédictions sont mauvaises. Puis, après de nombreux exemples, il apprend les mots les plus fréquents, les espaces, la ponctuation et même quelques règles de grammaire.
+
+Le printemps arrive avec ses couleurs. Les arbres se couvrent de feuilles, les fleurs s'ouvrent dans les jardins, et les oiseaux chantent dès le matin. Les gens sortent plus souvent, marchent dans les parcs et s'assoient sur les bancs pour profiter du soleil. Les journées deviennent plus longues et plus chaudes.
+
+En été, la chaleur devient forte. Les familles partent à la plage ou à la montagne. Les enfants nagent, construisent des châteaux de sable et mangent des glaces. Le soir, les terrasses des cafés sont pleines, et la musique résonne dans les rues jusqu'à minuit.
+
+L'automne apporte la pluie et le vent. Les feuilles tombent des arbres et couvrent les trottoirs. Les étudiants reprennent les cours, les professeurs préparent leurs leçons, et la ville retrouve son rythme habituel. On boit des boissons chaudes et on lit des livres près de la fenêtre.
+
+L'hiver, les nuits sont longues et froides. Dans les montagnes, la neige couvre les routes et les villages. Les habitants allument le feu dans la cheminée et racontent de vieilles histoires. Les enfants écoutent avec attention, puis s'endorment en rêvant de voyages lointains.
+
+Le train quitte la gare à huit heures. Par la fenêtre, les voyageurs voient défiler les champs, les rivières et les petites maisons blanches. Certains lisent, d'autres dorment ou regardent le paysage. Une femme écrit une lettre à sa sœur pour lui raconter son voyage. Quand le train arrive enfin, le soleil se couche sur la ville et les lumières s'allument une à une.
